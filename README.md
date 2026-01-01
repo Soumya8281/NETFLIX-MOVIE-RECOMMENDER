@@ -42,3 +42,13 @@ streamlit run app.py
 | `README.md` | Project documentation |
 
 ---
+
+## 📦 Model / Data File Download
+
+The file `movie_dict.pkl` is larger than GitHub’s upload limit, so it’s hosted externally.
+
+👉 **Download here:**  
+https://drive.google.com/file/d/1GcMO4Wf2OPD6q4CoTnpAQ5Mkcn3usasX/view?usp=sharing
+
+After downloading, place the file in the same folder as `app.py` before running the app.
+
